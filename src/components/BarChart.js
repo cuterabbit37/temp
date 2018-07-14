@@ -21,8 +21,8 @@ export default class BarChart extends Component {
       <div>
         <Bar
           data={data}
-          width={300}
-          height={170}
+          width={400}
+          height={270}
           options={{
             maintainAspectRatio: true
           }}
